@@ -5,8 +5,9 @@
   "dependencies": {
     "@material-ui/core": "^4.3.1",
     "@material-ui/icons": "^4.5.1",
-    "axios": "^0.19.0",
+    "axios": "^0.19.1",
     "react": "^16.8.6",
+    "react-chat-window": "^1.2.1",
     "react-dom": "^16.8.6",
     "react-linkify": "^1.0.0-alpha",
     "react-scripts": "3.0.1",

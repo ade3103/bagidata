@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Grid, AppBar, Typography, Toolbar, Paper } from "@material-ui/core";
 import './utils.css'
 import VideoDetail from "./components/VideoDetail";
-
+import ChatWindow from "./components/chatwindow"
 
 export default () => {
 
@@ -17,8 +17,8 @@ export default () => {
                 <VideoDetail />
               </Grid>
               <Grid item xs={4}>
-                lontong
-          </Grid>
+                {/* <ChatWindow /> */}
+               </Grid>
             </Grid>
           </Grid>
         </Grid>
